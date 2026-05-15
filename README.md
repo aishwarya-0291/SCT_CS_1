@@ -27,12 +27,4 @@ The Caesar Cipher is a substitution cipher where each letter in the plaintext is
 * **Input Validation:** Prevents program crashes by handling invalid character shifts gracefully.
 * **Infinite Execution Loop:** Keep encrypting/decrypting multiple messages until you choose to quit.
 
-## Getting Started
 
-### Prerequisites
-Make sure you have [Python 3.x](https://www.python.org/) installed on your system.
-
-### Installation & Running
-1. Clone this repository to your local machine:
-   ```bash
-   git clone [https://github.com/YOUR-USERNAME/caesar-cipher.git](https://github.com/YOUR-USERNAME/caesar-cipher.git)
